@@ -17,4 +17,15 @@ Se busca verificar el correcto funcionamiento del entorno de desarrollo.
 
 ## 🛠️ Resolución
 
-*(Acá después agregás tu código o explicación)*
+Se implementó un programa en C++ que imprime por consola el mensaje "Hola mundo".
+
+### Código:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hola mundo" << endl;
+    return 0;
+}
