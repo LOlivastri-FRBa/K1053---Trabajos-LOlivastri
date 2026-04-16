@@ -17,7 +17,13 @@ Se busca verificar el correcto funcionamiento del entorno de desarrollo.
 
 ## 🛠️ Resolución
 
-Se implementó un programa en C++ que imprime por consola el mensaje "Hola mundo".
+Se implementó MYSY2 en C++ que imprime por consola el mensaje "Hola mundo".
+
+Para compilar:
+g++ hello.cpp -o hola
+
+Para ejecutar:
+./hola
 
 ### Código:
 
