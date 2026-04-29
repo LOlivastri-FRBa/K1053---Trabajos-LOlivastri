@@ -29,9 +29,8 @@ Para ejecutar:
 
 ```cpp
 #include <iostream>
-using namespace std;
 
 int main() {
-    cout << "Hola mundo" << endl;
+    std::cout << "Hola mundo" << std::endl;
     return 0;
 }
