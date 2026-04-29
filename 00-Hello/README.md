@@ -11,10 +11,6 @@
 
 Programa simple de prueba.
 
-##  Hipótesis
-
-Se busca verificar el correcto funcionamiento del entorno de desarrollo.
-
 ##  Resolución
 
 Se implementó MYSY2 en C++ que imprime por consola el mensaje "Hola mundo".
