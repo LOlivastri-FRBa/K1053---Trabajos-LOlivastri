@@ -10,7 +10,7 @@
 ##  Enunciado
 
 Programa simple de prueba.
-
+ 
 ##  Resolución
 
 Se implementó MYSY2 en C++ que imprime por consola el mensaje "Hola mundo".
